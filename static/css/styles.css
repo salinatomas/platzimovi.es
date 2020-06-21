@@ -79,12 +79,10 @@ body {
   margin-left: 3px;
 }
 
-
 .container {
   display: grid;
   grid-template-columns: 80px 1fr;
 }
-
 
 .sidebar {
   background-color: var(--platzi-color);
@@ -193,7 +191,6 @@ body {
   margin-top: 0;
   font-size: 1em;
 }
-
 
 .footer {
   grid-column: 1 / -1;
